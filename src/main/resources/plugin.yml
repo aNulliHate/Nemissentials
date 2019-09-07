@@ -1,0 +1,5 @@
+name: Nemissentials
+main: dev.anullihate.nemissentials.Main
+version: ${pom.version}
+api: ["1.0.0"]
+authors: [PetteriM1, anullihate]

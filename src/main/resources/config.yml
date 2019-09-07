@@ -1,0 +1,5 @@
+chat_format: "§7[%server%] %player%: %message%"
+chat_disabled_from:
+  - "example"
+chat_disabled_to:
+  - "example"
